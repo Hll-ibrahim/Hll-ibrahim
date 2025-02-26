@@ -1,41 +1,43 @@
-# Hi there, I'm Zeynep Güneş! 👋
+# Hi there, I'm Halil İbrahim ÖZKUL! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A8FF&center=true&width=500&lines=React+Native+%26+Frontend+Developer;Cybersecurity+%7C+Forensic+Informatics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=33A8FF&center=true&width=500&lines=Laravel+%26+Backend+Developer;Node.js+%7C+Django+%7C+AI+Agent+Development" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💻 About Me
-I'm a **React Native & Frontend Developer** and a graduate student specializing in **cybersecurity**. My main interests include **forensic informatics**. Passionate about building efficient web & mobile applications and exploring AI-driven security solutions.
+I'm a **Backend Developer** specializing in **Laravel, Node.js, and Django**. I also have experience with **SQL databases** such as MySQL, PostgreSQL, MongoDB, and SQLite. Passionate about **AI agent development**, **LangFlow**, and **LangChain**, I enjoy integrating AI-driven solutions into backend systems.
 
 ## 🚀 Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,firebase,tailwind,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,django,html,css,js,jquery,postgres,mysql,mongodb,sqlite" />
 </p>
 
 ## 🎯 Areas of Interest
-- 🛡 Cybersecurity & Digital Forensics
-- 📱 Mobile & Web Development
-- 🧠 AI & Machine Learning
+- ⚙️ Backend Development (Laravel, Node.js, Django)
+- 🛡 Cybersecurity & AI-driven Security Solutions
+- 🧠 AI Agents & Large Language Models (LangFlow, LangChain)
+- 📂 Database Management (SQL, NoSQL)
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeynpGunes&show_icons=true&count_private=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hll-ibrahim&show_icons=true&count_private=true&theme=tokyonight" width="48%"/>
   <span>&nbsp;&nbsp;</span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeynpGunes&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hll-ibrahim&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/ZeynpGunes"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat" /></a>
-  <a href="https://www.linkedin.com/in/zeynep-g%C3%BCne%C5%9F-b93773164/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
-  <a href="mailto:guns.zeynp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
+  <a href="https://github.com/Hll-ibrahim"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/halil-ibrahim-%C3%B6zkul-b96bb6229/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" /></a>
+  <a href="mailto:ibrahimozkul238@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat" /></a>
 </p>
 
 ## 📄 More About Me
-- 📂 **GitHub README:** [Zeynep Güneş - GitHub README](https://github.com/ZeynpGunes/ZeynpGunes)
+- 📂 **GitHub README:** [Halil İbrahim ÖZKUL - GitHub README](https://github.com/Hll-ibrahim/Hll-ibrahim)
 - 💬 Feel free to reach out via email!
 
 ---
 ⭐ Feel free to check out my repositories and connect with me!
+
